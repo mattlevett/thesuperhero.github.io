@@ -1,17 +1,15 @@
-# Chulapa 101
+# thesuperhe.ro
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+A comprehensive resource detailing how people can help with the climate crisis.
 
-Contains basic configuration to get you a site with:
+Objectives:
 
-- [Sample posts](./_posts/) and [paginated blog index](./blog/index.html).
-- [Sample collection](./_cheatsheet/) with Markdown and kramdown cheatsheets and [collection index](./_pages/cheatsheet.md).
-- Archive pages for posts grouped by year, category, and tag.
+- Be accessible.
+- Be informative.
+- Be actionable.
+- Be based in science, with citations.
+- Be entertaining and attractive.
+- Don't be depressing.
+- Have multiple levels of information, ranging from 1-minute reads to 30-minute in-depth analyses.
 - Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample [`_config`](_config.yml) with minimal configuration.
-- Sample [`algolia-search.yml`](algolia-search.yml) for using Algolia+GitHub Actions. More guidance in the top of the file.
-- Sample files for extending the theme with your [own scripts](./_includes/custom/) and [css](./assets/css/).
-
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+- Be open for others to contribute their experience, whether in climate science, website-creation, photographyknowledge, science communication, marketing, psychology or whatever else may help.
